@@ -6,3 +6,5 @@ Quisque id lacus placerat, tincidunt est eget, ultrices dolor. Vivamus hendrerit
 Nullam accumsan neque sapien, et gravida risus tempus et. Nullam interdum blandit faucibus. Donec feugiat rhoncus fermentum. 
 Integer pellentesque faucibus velit ut euismod. Aliquam velit arcu, luctus quis enim vel, aliquam convallis nibh. Nullam
 scelerisque turpis quis odio porttitor convallis.
+
+final del comunicado. 
